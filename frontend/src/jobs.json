@@ -1,5 +1,14 @@
 [
     {
+        "title": "Full Stack Intern",
+        "company": "GenPark",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4332533867",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Software Developer",
         "company": "SAP",
         "location": "Vancouver, British Columbia, Canada",
@@ -9,29 +18,11 @@
         "description": "No description available."
     },
     {
-        "title": "Compiler Code Gen Engineer",
-        "company": "Lemurian Labs",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359995077",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award",
         "company": "Canada Life",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4324607841",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, Android",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360622969",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -54,6 +45,15 @@
         "description": "No description available."
     },
     {
+        "title": "Software Engineer, Android",
+        "company": "eBay",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4360622969",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Software Developer (Askuity division)",
         "company": "The Home Depot Canada",
         "location": "Toronto, Ontario, Canada",
@@ -72,20 +72,20 @@
         "description": "No description available."
     },
     {
+        "title": "Compiler Code Gen Engineer",
+        "company": "Lemurian Labs",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4359995077",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": ".NET Developer - AI & Agent Enablement",
         "company": "KPMG Canada",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4360601614",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Early Career Data Scientist/Economist",
-        "company": "EvenUp",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324931190",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -113,6 +113,15 @@
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4345162637",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": ".NET Developer - AI & Agent Enablement",
+        "company": "KPMG Canada",
+        "location": "Vaughan, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4359931888",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -153,11 +162,29 @@
         "description": "No description available."
     },
     {
-        "title": "ServiceNow Developer",
-        "company": "Veracity Software Inc",
+        "title": "Early Career Data Scientist/Economist",
+        "company": "EvenUp",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359984760",
+        "link": "https://www.linkedin.com/jobs/view/4324931190",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "Staples Canada",
+        "location": "Richmond Hill, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4345215455",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Data Scientist II",
+        "company": "Remitly",
+        "location": "Burnaby, British Columbia, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4337806831",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -167,15 +194,6 @@
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4345302700",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "Abbotsford, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359782306",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -225,11 +243,20 @@
         "description": "No description available."
     },
     {
-        "title": "Data Scientist II",
-        "company": "Remitly",
-        "location": "Burnaby, British Columbia, Canada",
+        "title": ".NET Developer - AI & Agent Enablement",
+        "company": "KPMG Canada",
+        "location": "Abbotsford, British Columbia, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4337806831",
+        "link": "https://www.linkedin.com/jobs/view/4359782306",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer - Wallet Core",
+        "company": "BitGo",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4304831262",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -239,15 +266,6 @@
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4347811344",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "QA Engineer",
-        "company": "Staples Canada",
-        "location": "Richmond Hill, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345215455",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -293,15 +311,6 @@
         "location": "Greater Toronto Area, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4345232620",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer - Wallet Core",
-        "company": "BitGo",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4304831262",
         "site": "linkedin",
         "description": "No description available."
     },
