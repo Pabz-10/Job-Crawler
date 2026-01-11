@@ -9,6 +9,7 @@
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Software Engineer (Delphi Development)",
         "company": "Scotiabank",
         "location": "Toronto, Ontario, Canada",
@@ -32,6 +33,13 @@
         "location": "Markham, Ontario, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4324819566",
+=======
+        "title": "Front Engineer Intern",
+        "company": "GenPark",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4332544540",
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "site": "linkedin",
         "description": "No description available."
     },
@@ -90,11 +98,19 @@
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Test Automation Specialist",
         "company": "RK IT Solutions",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4359769454",
+=======
+        "title": "Software Engineer (Delphi Development)",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4321239533",
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "site": "linkedin",
         "description": "No description available."
     },
@@ -108,11 +124,28 @@
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Software Engineer II, Frontend",
         "company": "Brex",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4337650485",
+=======
+        "title": "Founding Software Engineer (Java / Full Stack)",
+        "company": "H.C. Winter Search",
+        "location": "Brampton, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4345374295",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Runtime Engineer",
+        "company": "Lemurian Labs",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4360653498",
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "site": "linkedin",
         "description": "No description available."
     },
@@ -126,6 +159,7 @@
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Runtime Engineer",
         "company": "Lemurian Labs",
         "location": "Toronto, Ontario, Canada",
@@ -144,6 +178,8 @@
         "description": "No description available."
     },
     {
+=======
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "title": "Software Engineering Intern",
         "company": "Trimble Inc.",
         "location": "Richmond Hill, Ontario, Canada",
@@ -153,11 +189,19 @@
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Observability Engineer",
         "company": "Vancity",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4359787313",
+=======
+        "title": "Software Developer Backend - Platform",
+        "company": "Dialogue",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4345344503",
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "site": "linkedin",
         "description": "No description available."
     },
@@ -189,20 +233,36 @@
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Junior ServiceNow Developer",
         "company": "Ledcor",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4359650255",
+=======
+        "title": "Software Engineer II, Frontend",
+        "company": "Brex",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4337650485",
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "site": "linkedin",
         "description": "No description available."
     },
     {
+<<<<<<< HEAD
         "title": "Vue.js Developer",
         "company": "CGI",
         "location": "Greater Toronto Area, Canada",
         "date": "2026-01-11",
         "link": "https://www.linkedin.com/jobs/view/4339433280",
+=======
+        "title": "Forward Deployed Engineer, Prompt Specialist",
+        "company": "Cohere",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4339511044",
+>>>>>>> 2a76cdf1b99e2a016e4204c099c125cc37501f13
         "site": "linkedin",
         "description": "No description available."
     }
