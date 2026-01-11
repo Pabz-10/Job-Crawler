@@ -68,18 +68,24 @@ def filter_by_experience(df: pd.DataFrame) -> pd.DataFrame:
 
     def check_experience(description: str) -> bool:
         if not isinstance(description, str):
-            return False  # Don't filter if description is not a string
+            return False
 
-        # This regex looks for a number (e.g., 3, 5), followed by "year" or "yr".
-        # It's designed to catch patterns like "3 years", "3+ years", "5-7 yrs".
-        matches = re.findall(r'\b(\d+)\s*[-–]?\s*\+?\s*y(?:ea)?rs?', description, re.IGNORECASE)
+        # 1. Clean the description to remove HTML tags before searching
+        clean_description = re.sub(r'<[^>]+>', ' ', description)
         
-        for year_str in matches:
+        # 2. Regex to find numbers followed by "year" or "yr", accounting for "+"
+        # e.g., "10+ years", "5 years", "3-5 yrs"
+        matches = re.findall(r'\b(\d+)\s*[-–]?\s*(\d*)\s*\+?\s*y(?:ea)?rs?', clean_description, re.IGNORECASE)
+        
+        for match in matches:
+            # Check the first number in a potential range (e.g., the "3" in "3-5 years")
             try:
+                # The first number in the match tuple is the primary one
+                year_str = match[0] if isinstance(match, tuple) else match
                 years_required = int(year_str)
                 if years_required >= 3:
                     return True  # High experience requirement found
-            except ValueError:
+            except (ValueError, IndexError):
                 continue
         return False
 
@@ -100,7 +106,12 @@ QUERIES = [
     "new grad software engineer",
     "new grad software developer",
     "junior software developer",
-    "entry level software engineer"
+    "entry level software engineer",
+    "software developer",
+    "recent graduate software engineer",
+    "junior backend developer",
+    "junior frontend developer",
+    "junior full stack developer"
 ]
 LOCATIONS = ["Vancouver, BC", "Toronto, ON"]
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'frontend', 'src')
@@ -121,7 +132,7 @@ def run_scraper():
             print(f"Scraping for '{query}' in '{location}'...")
             try:
                 jobs = scrape_jobs(
-                    site_name=["indeed", "linkedin", "glassdoor"],
+                    site_name=["linkedin", "glassdoor", "google", "zip_recruiter"],
                     search_term=query,
                     location=location,
                     results_wanted=25,
