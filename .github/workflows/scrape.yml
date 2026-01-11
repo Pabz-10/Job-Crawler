@@ -3,14 +3,14 @@ name: Scrape, Build, and Deploy Job Crawler
 on:
   schedule:
     # Runs at 9 AM and 5 PM UTC
-    - cron: '0 9,17 * * *'
+    - cron: "0 9,17 * * *"
   workflow_dispatch: # Allows manual triggering
 
 # Sets permissions for the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write # Needed for committing the jobs.json file
-  pages: write      # Needed for deploying to GitHub Pages
-  id-token: write   # Needed for OIDC token authentication
+  pages: write # Needed for deploying to GitHub Pages
+  id-token: write # Needed for OIDC token authentication
 
 jobs:
   # Build job
@@ -23,8 +23,8 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-          cache: 'pip'
+          python-version: "3.10"
+          cache: "pip"
 
       - name: Install Python dependencies
         run: pip install -r backend/requirements.txt
@@ -43,12 +43,12 @@ jobs:
           else
             echo "No new jobs found. Skipping commit."
           fi
-      
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
           cache-dependency-path: frontend/package-lock.json
 
       - name: Install frontend dependencies
@@ -60,7 +60,7 @@ jobs:
         run: |
           chmod +x ./node_modules/.bin/vite
           npm run build
-      
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
