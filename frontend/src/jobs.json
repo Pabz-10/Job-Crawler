@@ -1,14 +1,5 @@
 [
     {
-        "title": "Full Stack Intern",
-        "company": "GenPark",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4332533867",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "Software Developer",
         "company": "SAP",
         "location": "Vancouver, British Columbia, Canada",
@@ -18,56 +9,74 @@
         "description": "No description available."
     },
     {
-        "title": "Canada Life + Lime Connect DevOps & Technology Summer Internship & Scholarship Award",
-        "company": "Canada Life",
-        "location": "Toronto, Ontario, Canada",
+        "title": "Front Engineer Intern",
+        "company": "GenPark",
+        "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324607841",
+        "link": "https://www.linkedin.com/jobs/view/4332544540",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "QA Engineer(Pega CDH )",
+        "title": "Workday Extend Developer",
+        "company": "MSCI Inc.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4303495785",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Software Automator",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Burlington, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4352540696",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Engineering & Quality - Software Engineer, Associate Director (Toronto)",
+        "company": "Fitch Group, Inc.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4295703187",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Software Automator",
+        "company": "Thermo Fisher Scientific",
+        "location": "Burlington, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4352388732",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Software Engineer III, ClearCar",
+        "company": "ACV Auctions",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4334569483",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Application Engineer, OMS",
+        "company": "Canada Goose",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4306776289",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer (Delphi Development)",
         "company": "Scotiabank",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4325131168",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "QA Engineer(Pega CDH )",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4325071353",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, Android",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360622969",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer (Askuity division)",
-        "company": "The Home Depot Canada",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4328153604",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Runtime Engineer",
-        "company": "Lemurian Labs",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360653498",
+        "link": "https://www.linkedin.com/jobs/view/4321239533",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -81,110 +90,65 @@
         "description": "No description available."
     },
     {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
+        "title": "Founding Software Engineer (Java / Full Stack)",
+        "company": "H.C. Winter Search",
+        "location": "Brampton, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4345374295",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Runtime Engineer",
+        "company": "Lemurian Labs",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360601614",
+        "link": "https://www.linkedin.com/jobs/view/4360653498",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Launch Integration Engineer",
-        "company": "Stripe",
+        "title": "ServiceNow Developer",
+        "company": "Veracity Software Inc",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4303246064",
+        "link": "https://www.linkedin.com/jobs/view/4359984760",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Data Scientist - Feature Engineering",
-        "company": "Equifax",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324697271",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, Android (Platform)",
-        "company": "League",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345162637",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "Vaughan, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359931888",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, iOS (Platform)",
-        "company": "League",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345422411",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "St. Catharines, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359782308",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Copilot Studio Developer",
-        "company": "Aecon Group Inc.",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324857087",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "AMD",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4337869648",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Early Career Data Scientist/Economist",
-        "company": "EvenUp",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324931190",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "QA Engineer",
-        "company": "Staples Canada",
+        "title": "Software Engineering Intern",
+        "company": "Trimble Inc.",
         "location": "Richmond Hill, Ontario, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345215455",
+        "link": "https://www.linkedin.com/jobs/view/4334669863",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Data Scientist II",
-        "company": "Remitly",
+        "title": "Software Developer Backend - Platform",
+        "company": "Dialogue",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4345344503",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "R&D Verification Engineer II",
+        "company": "Synopsys Inc",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-11",
+        "link": "https://www.linkedin.com/jobs/view/4334706730",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "SharePoint Developer",
+        "company": "NTT DATA North America",
         "location": "Burnaby, British Columbia, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4337806831",
+        "link": "https://www.linkedin.com/jobs/view/4334479880",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -198,128 +162,20 @@
         "description": "No description available."
     },
     {
-        "title": "Software Engineer II",
-        "company": "Microsoft",
+        "title": "Software Engineer II, Frontend",
+        "company": "Brex",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360602388",
+        "link": "https://www.linkedin.com/jobs/view/4337650485",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Online Software Engineer",
-        "company": "EA SPORTS",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4350217819",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359951815",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "Burnaby, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360601597",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "Langley, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359931889",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": ".NET Developer - AI & Agent Enablement",
-        "company": "KPMG Canada",
-        "location": "Abbotsford, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359782306",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer - Wallet Core",
-        "company": "BitGo",
+        "title": "Forward Deployed Engineer, Prompt Specialist",
+        "company": "Cohere",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4304831262",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer - Animation & Rigging",
-        "company": "Netflix",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4347811344",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Machine Learning Researcher",
-        "company": "RBC",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4339445803",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Tools Software Engineer - NHL (12 mo temp)",
-        "company": "EA SPORTS",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4350268008",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Value Engineer II",
-        "company": "Diligent",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345295319",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer (Full Stack MERN Developer)",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4315529659",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer (Secure Cross-Platform Applications) : 25-07289",
-        "company": "Akraya, Inc.",
-        "location": "Greater Toronto Area, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345232620",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer - GPU Debugger",
-        "company": "AMD",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4350198613",
+        "link": "https://www.linkedin.com/jobs/view/4339511044",
         "site": "linkedin",
         "description": "No description available."
     }
