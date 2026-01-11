@@ -53,7 +53,9 @@ jobs:
 
       - name: Build React application
         working-directory: ./frontend
-        run: npm run build
+        run: |
+          chmod +x ./node_modules/.bin/vite
+          npm run build
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
