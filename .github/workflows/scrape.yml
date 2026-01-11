@@ -1,0 +1,62 @@
+name: Scrape and Deploy Job Crawler
+
+on:
+  schedule:
+    # Runs at 9 AM and 5 PM UTC
+    - cron: '0 9,17 * * *'
+  workflow_dispatch: # Allows manual triggering from the GitHub UI
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --- Part 1: Scrape for new jobs ---
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Run Python scraper
+        run: python backend/scraper.py
+
+      # --- Part 2: Commit new data and deploy site ---
+      - name: Commit and push job data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add frontend/public/jobs.json
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Automated job scrape update"
+            git push
+          else
+            echo "No new jobs found. Skipping commit."
+          fi
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend dependencies
+        working-directory: ./frontend
+        run: npm install
+
+      - name: Build React application
+        working-directory: ./frontend
+        run: npm run build
+      
+      - name's Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./frontend/dist

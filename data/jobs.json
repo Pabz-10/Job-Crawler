@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Junior Software Developer",
+        "company": "Tech Solutions Inc.",
+        "location": "Toronto, ON",
+        "date": "2026-01-10",
+        "link": "https://www.indeed.com/job/12345",
+        "site": "Indeed",
+        "description": "An exciting role for a junior developer looking to grow their skills in a fast-paced environment."
+    },
+    {
+        "title": "New Grad Software Engineer",
+        "company": "Innovate Corp.",
+        "location": "Vancouver, BC",
+        "date": "2026-01-09",
+        "link": "https://www.linkedin.com/job/67890",
+        "site": "LinkedIn",
+        "description": "Join our team of innovators and work on cutting-edge projects. For recent graduates."
+    },
+    {
+        "title": "Entry Level Developer",
+        "company": "CodeCrafters",
+        "location": "Toronto, ON",
+        "date": "2026-01-08",
+        "link": "https://www.glassdoor.com/job/11223",
+        "site": "Glassdoor",
+        "description": "Perfect for someone starting their career in software development. No prior industry experience required."
+    }
+]
