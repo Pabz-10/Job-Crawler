@@ -107,7 +107,6 @@ QUERIES = [
     "new grad software developer",
     "junior software developer",
     "entry level software engineer",
-    "software developer",
     "recent graduate software engineer",
     "junior backend developer",
     "junior frontend developer",
@@ -165,13 +164,24 @@ def run_scraper():
 
     # --- Post-Scraping Filtering ---
     # Remove jobs that are clearly not entry-level based on title
-    negative_keywords = ['senior', 'sr', 'lead', 'principal', 'staff', 'manager', 'architect', 'experienced', 'structural']
-    # The regex `(?i)` makes it case-insensitive. `\b` ensures we match whole words.
-    pattern = r'(?i)\b(' + '|'.join(negative_keywords) + r')\b'
+    # --- Post-Scraping Filtering ---
+# Remove jobs that are clearly not entry-level based on title
+    negative_keywords = [
+    'senior', 'sr\.', 'sr,', 'sr ', 'lead', 'principal', 'staff', 
+    'manager', 'architect', 'experienced', 'structural', 'expert',
+    'mid-level', 'mid level', 'advanced', ' III', ' II', ' IV',
+    'director', 'vp', 'vice president', 'chief', 'head of'
+    ]
 
-    # Keep rows where the title does NOT contain any of the negative keywords
+# More flexible pattern - checks if ANY keyword appears in the title
+    def contains_senior_keywords(title):
+        if not isinstance(title, str):
+            return False
+        title_lower = title.lower()
+        return any(keyword.lower() in title_lower for keyword in negative_keywords)
+
     initial_count = len(final_df)
-    final_df = final_df[~final_df['title'].str.contains(pattern, regex=True, na=False)]
+    final_df = final_df[~final_df['title'].apply(contains_senior_keywords)]
     filtered_count = initial_count - len(final_df)
     if filtered_count > 0:
         print(f"Filtered out {filtered_count} jobs with senior-level keywords in the title.")
