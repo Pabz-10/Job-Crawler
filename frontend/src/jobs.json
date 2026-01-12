@@ -54,20 +54,20 @@
         "description": "No description available."
     },
     {
-        "title": "Runtime Engineer",
-        "company": "Lemurian Labs",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-12",
-        "link": "https://www.linkedin.com/jobs/view/4360653498",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "ServiceNow Developer",
         "company": "Veracity Software Inc",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-01-12",
         "link": "https://www.linkedin.com/jobs/view/4359984760",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Runtime Engineer",
+        "company": "Lemurian Labs",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4360653498",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -99,6 +99,15 @@
         "description": "No description available."
     },
     {
+        "title": "Software Specialist",
+        "company": "University of Toronto",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4351865223",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "QA Software Automator",
         "company": "Thermo Fisher Scientific",
         "location": "Burlington, Ontario, Canada",
@@ -122,15 +131,6 @@
         "location": "Burlington, Ontario, Canada",
         "date": "2026-01-12",
         "link": "https://www.linkedin.com/jobs/view/4352540696",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Forward Deployed Engineer, Prompt Specialist",
-        "company": "Cohere",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-12",
-        "link": "https://www.linkedin.com/jobs/view/4339511044",
         "site": "linkedin",
         "description": "No description available."
     },
