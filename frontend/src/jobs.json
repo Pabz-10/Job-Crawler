@@ -1,9 +1,81 @@
 [
     {
+        "title": "Software Developer",
+        "company": "SAP",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4332593268",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Junior ServiceNow Developer",
+        "company": "Ledcor",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4359650255",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "SharePoint Developer",
+        "company": "NTT DATA North America",
+        "location": "Burnaby, British Columbia, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4334479880",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Observability Engineer",
+        "company": "Vancity",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4359787313",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineering Intern",
+        "company": "Trimble Inc.",
+        "location": "Richmond Hill, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4334669863",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer Backend - Platform",
+        "company": "Dialogue",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4345344503",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Runtime Engineer",
+        "company": "Lemurian Labs",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4360653498",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "ServiceNow Developer",
+        "company": "Veracity Software Inc",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4359984760",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Compiler Code Gen Engineer",
         "company": "Lemurian Labs",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
+        "date": "2026-01-12",
         "link": "https://www.linkedin.com/jobs/view/4359995077",
         "site": "linkedin",
         "description": "No description available."
@@ -12,80 +84,8 @@
         "title": "Software Engineer (Delphi Development)",
         "company": "Scotiabank",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
+        "date": "2026-01-12",
         "link": "https://www.linkedin.com/jobs/view/4321239533",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Technical Consultant",
-        "company": "Appian",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324397373",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Python Developer (Statistical Analyst)",
-        "company": "Aviva Canada",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4324819566",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Workday Extend Developer",
-        "company": "MSCI Inc.",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4303495785",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "QA Software Automator",
-        "company": "myGwork - LGBTQ+ Business Community",
-        "location": "Burlington, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4352540696",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Engineering & Quality - Software Engineer, Associate Director (Toronto)",
-        "company": "Fitch Group, Inc.",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4295703187",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "QA Software Automator",
-        "company": "Thermo Fisher Scientific",
-        "location": "Burlington, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4352388732",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Software Engineer III, ClearCar",
-        "company": "ACV Auctions",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4334569483",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Application Engineer, OMS",
-        "company": "Canada Goose",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4306776289",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -93,8 +93,44 @@
         "title": "Test Automation Specialist",
         "company": "RK IT Solutions",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
+        "date": "2026-01-12",
         "link": "https://www.linkedin.com/jobs/view/4359769454",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Software Automator",
+        "company": "Thermo Fisher Scientific",
+        "location": "Burlington, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4352388732",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Application Engineer, OMS",
+        "company": "Canada Goose",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4306776289",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Software Automator",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Burlington, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4352540696",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Forward Deployed Engineer, Prompt Specialist",
+        "company": "Cohere",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-01-12",
+        "link": "https://www.linkedin.com/jobs/view/4339511044",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -102,117 +138,9 @@
         "title": "Vue.js Developer",
         "company": "CGI",
         "location": "Greater Toronto Area, Canada",
-        "date": "2026-01-11",
+        "date": "2026-01-12",
         "link": "https://www.linkedin.com/jobs/view/4339433280",
         "site": "linkedin",
         "description": "No description available."
-    },
-    {
-        "title": "ServiceNow Developer",
-        "company": "Veracity Software Inc",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359984760",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Runtime Engineer",
-        "company": "Lemurian Labs",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4360653498",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer Backend - Platform",
-        "company": "Dialogue",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4345344503",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineering Intern",
-        "company": "Trimble Inc.",
-        "location": "Richmond Hill, Ontario, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4334669863",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Observability Engineer",
-        "company": "Vancity",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359787313",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "R&D Verification Engineer II",
-        "company": "Synopsys Inc",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4334706730",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "SharePoint Developer",
-        "company": "NTT DATA North America",
-        "location": "Burnaby, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4334479880",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Junior ServiceNow Developer",
-        "company": "Ledcor",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4359650255",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer II, Frontend",
-        "company": "Brex",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4337650485",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer",
-        "company": "SAP",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-11",
-        "link": "https://www.linkedin.com/jobs/view/4332593268",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full stack software engineer (mobile apps and web apps) contract to FT",
-        "company": "Adsora",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-01-10",
-        "link": "https://www.linkedin.com/jobs/view/4345302700",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "ServiceNow Junior Developer - Auxiliary - Burnaby (69130)",
-        "company": "NTT DATA",
-        "location": "Burnaby, BC, Canada",
-        "date": "2025-12-18",
-        "link": "https://www.glassdoor.ca/job-listing/servicenow-junior-developer-auxiliary-burnaby-69130-ntt-data-JV_IC2278200_KO0,51_KE52,60.htm?jl=1009965727813&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "description": "Req ID: 69130\n\nThis position is with NTT DATA BCU, Inc. and is part of the BCGE Union.\n\nNTT DATA Services strives to hire exceptional, innovative, and passionate individuals who want to grow with us. If you want to be\n\npart of an inclusive, adaptable, and forward-thinking organization, apply now.\n\nWe are currently seeking a ServiceNow Junior Developer - Auxiliary - Burnaby to join our team in Burnaby, British Columbia (CA-BC), Canada (CA).\n\nPurpose of Position\n\nThe ServiceNow Junior Developer is responsible for designing, developing, and maintaining the service catalog within the ServiceNow platform. Their primary role is to create and customize catalog items, workflows, and user interfaces to meet the specific needs of the organization. They work closely with the ServiceNow Business Analysts to understand service requirements and translate them into functional catalog items that streamline service delivery and improve user experience. The developer ensures that the service catalog is intuitive, efficient, and aligns with ITIL best practices. They also handle troubleshooting and optimization of existing catalog items, implement automation where possible, and stay updated with the latest ServiceNow features to enhance the catalog's capabilities.\n\nAccountabilities\n• Understand business requirements and work within a group environment to provide efficient and effective ServiceNow service catalogue solutions.\n• Participate in the full software development life cycle: Analysis, Design, Coding, Testing and promotion into Production.\n• Provide technical support during all phases of service catalogue delivery.\n\nCompetencies (To be assessed during interviews)\n• Experience developing workflows and logic using Flow Designer\n• Strong knowledge of ITIL v3 methodologies, ITSM concepts, enterprise IT architecture, relational databases, ITIL certifications a plus.\n• Strong technical knowledge of ServiceNow Service Catalogue\n\nQualifications\n• 1 year ServiceNow service catalogue development, configuration and administration experience in an enterprise environment.\n• ServiceNow Certified Administrator (CSA)\n• ServiceNow Certified Application Developer (CAD)\n\nFinancial Responsibility\n• Not applicable\n\nDirect Supervision\n• Not applicable\n\nProject/Team Leadership or Training\n• May have some training responsibilities.\n\nPlease note, as per the CBA and Human Rights Code of BC, this posted position may be used for accommodation of union members based on medical or human rights grounds without previous notice. The Employer must give preference to a union member who has submitted an approved the accommodation request if the positions is still vacant during the recruitment process.\n\nPay Scale: CAD 37.6063/hr\n\nAbout NTT DATA Services\n\nNTT DATA BCU is an entity of NTT DATA Services, global business and IT services provider specializing in digital,\n\ncloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process\n\nservices. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.\n\nNTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard\n\nto race, gender, disability, age, veteran status, sexual orientation, gender identity, or any other class protected by law.\n\n#LI-NorthAmerica"
     }
 ]
