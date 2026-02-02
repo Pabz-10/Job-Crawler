@@ -1,10 +1,73 @@
 [
     {
-        "title": "Contract Backend/Fullstack Developer – AI Agency",
-        "company": "M0THER.AI",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367594823",
+        "title": "Java Full Stack Developer",
+        "company": "CGI",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4368116922",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Runtime Engineer",
+        "company": "Lemurian Labs",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4367959717",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Compiler Code Gen Engineer",
+        "company": "Lemurian Labs",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4367974452",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Python Data Controls Developer",
+        "company": "ProEdge Services",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4357101255",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Launch Integration Engineer",
+        "company": "Stripe",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4303246064",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer (Delphi Development)",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4321239533",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Workday Finance Developer",
+        "company": "Capgemini",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4367931031",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS)",
+        "company": "Amazon",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4367967298",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -12,35 +75,8 @@
         "title": "Application Engineer, OMS",
         "company": "Canada Goose",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
+        "date": "2026-02-02",
         "link": "https://www.linkedin.com/jobs/view/4306776289",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Frontend engineer intern",
-        "company": "GenPark",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367748292",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Sr. ML Kernel Performance Engineer, AWS Neuron, Annapurna Labs",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4282893088",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Enterprise Content Management Consultant",
-        "company": "TalentOla",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367701010",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -48,7 +84,7 @@
         "title": "Forward Deployed Engineer, Prompt Specialist",
         "company": "Cohere",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
+        "date": "2026-02-02",
         "link": "https://www.linkedin.com/jobs/view/4339511044",
         "site": "linkedin",
         "description": "No description available."
@@ -57,53 +93,17 @@
         "title": "Workday Extend Developer",
         "company": "MSCI Inc.",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
+        "date": "2026-02-02",
         "link": "https://www.linkedin.com/jobs/view/4303495785",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS)",
-        "company": "Amazon",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367967298",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Workday Finance Developer",
-        "company": "Capgemini",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367931031",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Controls Integration Engineer",
-        "company": "Celerity Craft",
-        "location": "Squamish, British Columbia, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367715363",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer (Delphi Development)",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4321239533",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Launch Integration Engineer",
-        "company": "Stripe",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4303246064",
+        "title": "FinOps Engineer | Nuclear",
+        "company": "CPUS Engineering Staffing Solutions Inc.",
+        "location": "Oshawa, Ontario, Canada",
+        "date": "2026-02-02",
+        "link": "https://www.linkedin.com/jobs/view/4367758309",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -113,42 +113,6 @@
         "location": "Toronto, Ontario, Canada",
         "date": "2026-02-01",
         "link": "https://www.linkedin.com/jobs/view/4367704646",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Python Data Controls Developer",
-        "company": "ProEdge Services",
-        "location": "Greater Toronto Area, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4357101255",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Compiler Code Gen Engineer",
-        "company": "Lemurian Labs",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367974452",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Runtime Engineer",
-        "company": "Lemurian Labs",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367959717",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Frontend Developer",
-        "company": "LogicsT Technologies",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-01",
-        "link": "https://www.linkedin.com/jobs/view/4367708808",
         "site": "linkedin",
         "description": "No description available."
     }
