@@ -45,6 +45,7 @@ function App() {
         <button onClick={() => setLocationFilter('All')} className={locationFilter === 'All' ? 'active' : ''}>All</button>
         <button onClick={() => setLocationFilter('Toronto')} className={locationFilter === 'Toronto' ? 'active' : ''}>Toronto</button>
         <button onClick={() => setLocationFilter('Vancouver')} className={locationFilter === 'Vancouver' ? 'active' : ''}>Vancouver</button>
+        <button onClick={() => setLocationFilter('Burnaby')} className={locationFilter === 'Burnaby' ? 'active' : ''}>Burnaby</button>
       </div>
       <p>Showing {filteredJobs.length} roles. Click table headers to sort.</p>
       <table>

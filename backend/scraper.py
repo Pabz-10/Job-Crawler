@@ -112,7 +112,7 @@ QUERIES = [
     "junior frontend developer",
     "junior full stack developer"
 ]
-LOCATIONS = ["Vancouver, BC", "Toronto, ON"]
+LOCATIONS = ["Vancouver, BC", "Toronto, ON", "Burnaby, BC"]
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'frontend', 'src')
 OUTPUT_FILE = os.path.join(DATA_DIR, 'jobs.json')
 
@@ -131,7 +131,8 @@ def run_scraper():
             print(f"Scraping for '{query}' in '{location}'...")
             try:
                 jobs = scrape_jobs(
-                    site_name=["linkedin", "glassdoor", "google", "zip_recruiter"],
+                    site_name=["linkedin"], # Google and ZipRecruiter have been removed due to consistent unreliability with jobspy.
+
                     search_term=query,
                     location=location,
                     results_wanted=25,
