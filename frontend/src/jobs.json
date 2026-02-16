@@ -1,46 +1,10 @@
 [
     {
-        "title": "Masters or PhD Researcher",
-        "company": "Alignerr",
+        "title": "Gameplay Software Engineer - Future Opportunities",
+        "company": "EA SPORTS",
         "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4373254905",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "General Postdoctoral Researcher (Masters/PhDs)",
-        "company": "Alignerr",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4373269358",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "AMD",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4324750584",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer",
-        "company": "myGwork - LGBTQ+ Business Community",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4364584420",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "TechOps Engineer",
-        "company": "AutoTrader.ca",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4372088593",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4266472108",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -48,62 +12,17 @@
         "title": "RQ10278 - Software Developer - Intermediate",
         "company": "S M Software Solutions Inc",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
+        "date": "2026-02-16",
         "link": "https://www.linkedin.com/jobs/view/4373296201",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "FY26 Intern - Automotive Engineering Internship - Canada (12 or 16 months)",
-        "company": "Qualcomm",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4325272227",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "AI Models GPU deployment software Engineer",
-        "company": "AMD",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4351007312",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Distinguished Developer",
-        "company": "Autodesk",
+        "title": "ML Compiler Engineer , AWS Neuron, Annapurna Labs",
+        "company": "Amazon Web Services (AWS)",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4330050304",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Mid Developer - SecOps",
-        "company": "S M Software Solutions Inc",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4373285503",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "SAP BW/ABAP Software Engineer",
-        "company": "Procter & Gamble",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4355404206",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Pega",
-        "company": "Virtusa",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-02-15",
-        "link": "https://www.linkedin.com/jobs/view/4355611774",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4312931536",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -111,8 +30,125 @@
         "title": "Geospatial Product Support Analyst Intern",
         "company": "Trimble Inc.",
         "location": "Richmond Hill, Ontario, Canada",
-        "date": "2026-02-15",
+        "date": "2026-02-16",
         "link": "https://www.linkedin.com/jobs/view/4337216970",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Mid Developer - SecOps",
+        "company": "S M Software Solutions Inc",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4373285503",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Distinguished Developer",
+        "company": "Autodesk",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4330050304",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "AI Models GPU deployment software Engineer",
+        "company": "AMD",
+        "location": "Markham, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4351007312",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "FY26 Intern - Automotive Engineering Internship - Canada (12 or 16 months)",
+        "company": "Qualcomm",
+        "location": "Markham, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4325272227",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Observability Engineer - Trading - $120,000-$250,000 CAD + Bonus",
+        "company": "Hunter Bond",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4364753885",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Cloud Engineer (Azure), Deloitte Global Technology",
+        "company": "Deloitte",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4102608148",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "AMD",
+        "location": "Markham, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4324750584",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Quality Assurance Engineer",
+        "company": "Integriti Global",
+        "location": "North York, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4373502331",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "General Postdoctoral Researcher (Masters/PhDs)",
+        "company": "Alignerr",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4373269358",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Masters or PhD Researcher",
+        "company": "Alignerr",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4373254905",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "A venir",
+        "company": "MDA Space",
+        "location": "Richmond, British Columbia, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4373299532",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Machine Learning Scientist - Future Opportunities",
+        "company": "EA SPORTS",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4312776229",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Masters or PhD Researcher",
+        "company": "Alignerr",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-02-16",
+        "link": "https://www.linkedin.com/jobs/view/4373262517",
         "site": "linkedin",
         "description": "No description available."
     }
