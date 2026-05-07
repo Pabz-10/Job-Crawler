@@ -1,10 +1,514 @@
 [
     {
-        "title": "Tech & Transformation - EAI&D - Engineering - New Grad 2026 - Multiple Locations",
-        "company": "Deloitte",
+        "title": "Software Developer",
+        "company": "Ascend FS",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4144539324",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Sr. MTS, Frontend Engineer (eBay Live)",
+        "company": "eBay",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4356130163",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Engineer, Integrations",
+        "company": "StackAdapt",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411200791",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Full Stack Developer,",
+        "company": "Astra-North Infoteck Inc.  ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409984631",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Engineer\nToronto, ON",
+        "company": "System Update",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409204941",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Developer",
+        "company": "TekStaff IT Solutions",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409933446",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer, Metal Runtime (API & Abstractions)",
+        "company": "Tenstorrent",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4389865142",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "IT System Developer Engineer",
+        "company": "Industrial and Commercial Bank of China (Canada)",
+        "location": "Richmond Hill, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409215441",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Développeur ou Développeuse de plateforme Power dynamique",
+        "company": "KPMG Canada",
+        "location": "Chilliwack, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4380181628",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "Rivago Infotech Inc",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4408875439",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "E-IT",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409929490",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "E-IT",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409975270",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "Epsilon Solutions Ltd.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411273391",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "MTS-2 Front End Software Engineer",
+        "company": "eBay",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4356422647",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Developer (Angular/Java)",
+        "company": "TD",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4410994441",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full-Stack Software Engineer (New Grad)",
+        "company": "Nue.io",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409947680",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Angular Developer",
+        "company": "Virtusa",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4398644457",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Developer (JAVA + Angular + AI)",
+        "company": "K&K Global Talent Solutions INC.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411204409",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Strong UI Angular Developer-- Toronto Canada",
+        "company": "KAnand Corporation",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409972394",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full stack Developer",
+        "company": "Tekgence Inc",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409984698",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Developer, GFT",
+        "company": "RBC",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411237144",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Apptoza Inc.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409211154",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Pacer Group",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409208131",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Citi",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409799371",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "MTS 1, Backend Software Engineer",
+        "company": "eBay",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4356558321",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "MTS 1, Backend Software Engineer",
+        "company": "eBay",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4351921691",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Iris Software Inc.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409943121",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Full Stack Developer",
+        "company": "Virtusa",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4399942599",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Spruce InfoTech Inc.",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411278296",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Engineer",
+        "company": "Nityo Infotech",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411288838",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4354840757",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Engineer",
+        "company": "DataBraid",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411202003",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer, New Grad",
+        "company": "IXL Learning",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4374098762",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Autodesk",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409989572",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Autodesk",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409982752",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Electronic Arts (EA)",
         "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410951018",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4399796307",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "BCAA",
+        "location": "Burnaby, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4388476677",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Development Engineer (Full Stack)",
+        "company": "Workday",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4387518861",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "QA Manual Tester / Test Technician",
+        "company": "Raas Infotek",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4408538418",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Quality Assurance Developer",
+        "company": "Corinex",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4410956450",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Co-op/Intern, Internal AI Operations - Summer 2026",
+        "company": "Hootsuite",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4401440807",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer, CBS Monetization",
+        "company": "Clio",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4409767667",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Quality Assurance Engineer",
+        "company": "DarkVision",
+        "location": "North Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4388893006",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "PLM & CAD Systems Administrator",
+        "company": "Saltworks Technologies: Industrial Water + Lithium",
+        "location": "Richmond, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4394732187",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "DataBricks Engineer (contract)",
+        "company": "Capgemini",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411406516",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Development Engineer, Transparency",
+        "company": "Amazon",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4390308362",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Bluetooth engineer",
+        "company": "Pentangle Tech Services | P5 Group",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411222014",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Junior Full Stack Developer",
+        "company": "Hays",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4408844977",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "TD",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411277094",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4355191434",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Developer",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4401114720",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Engineer, Delta Force",
+        "company": "StackAdapt",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4410996904",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer - Java",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4360977606",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Russell Tobin",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4411249170",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4363764493",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Russell Tobin",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4410965974",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "Meridian Credit Union",
+        "location": "Etobicoke, Ontario, Canada",
+        "date": "2026-05-07",
+        "link": "https://www.linkedin.com/jobs/view/4379033935",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -14,456 +518,6 @@
         "location": "Toronto, Ontario, Canada",
         "date": "2026-05-06",
         "link": "https://www.linkedin.com/jobs/view/4410950018",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer 2 (API /NodeJS /Javascript)",
-        "company": "U.S. Bank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410959012",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Engineer, Integrations",
-        "company": "StackAdapt",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4411200791",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Web Developer",
-        "company": "BLiNQ Networks",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408444829",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer (Mobile Applications)",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4330865409",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Java Full Stack Developer",
-        "company": "J&M Group",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410745155",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer (JAVA + Angular + AI)",
-        "company": "J&M Group",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410771051",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Java Full Stack Developer",
-        "company": "Citi",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409799371",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, Metal Runtime (API & Abstractions)",
-        "company": "Tenstorrent",
-        "location": "Greater Toronto Area, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4389865142",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Developer",
-        "company": "TechDoQuest",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408870696",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, Localization, Calibration & Mapping",
-        "company": "AeroVect",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410776036",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer (JAVA + Angular + AI)",
-        "company": "K&K Global Talent Solutions INC.",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4411204409",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Associate, Data Scientist",
-        "company": "BMO",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410776568",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer, Frontier Outposts, Edge Services Team",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4402261771",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Frontend Developer",
-        "company": "Rivago Infotech Inc",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408875439",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Frontend Developer",
-        "company": "E-IT",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409929490",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "MTS-2 Front End Software Engineer",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4356422647",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Sitecore Frontend Developer",
-        "company": "Creative Circle",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410768948",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Sr. MTS, Frontend Engineer (eBay Live)",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4356130163",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Mobile / React Native Developer",
-        "company": "Apptoza Inc.",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408467060",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer (Angular/Java)",
-        "company": "TD",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410994441",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "Aversan Inc.",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409386642",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "MTS 1, Backend Software Engineer",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4356558321",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "MTS 1, Backend Software Engineer",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4351921691",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "DataBraid",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4411202003",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer",
-        "company": "Meridian Credit Union",
-        "location": "Etobicoke, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4379033935",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer",
-        "company": "Ascend FS",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4144539324",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Quality Assurance Developer",
-        "company": "Corinex",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410956450",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026",
-        "company": "NVIDIA",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409726750",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "SAP iXp Intern - Full Stack Developer",
-        "company": "SAP",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409724126",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer",
-        "company": "Total Life",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410763062",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer (Full Stack)",
-        "company": "Workday",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4387518861",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "QA Manual Tester / Test Technician",
-        "company": "Raas Infotek",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408538418",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer",
-        "company": "First Fed",
-        "location": "Bellingham, WA",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408470333",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Java full stack Developer",
-        "company": "eHub Global Inc",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410772277",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Co-op/Intern, Internal AI Operations - Summer 2026",
-        "company": "Hootsuite",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4401440807",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full stack Java Developer",
-        "company": "eHub Global Inc",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4411207668",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer, CBS Monetization",
-        "company": "Clio",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409767667",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Hardware Tester",
-        "company": "KTek Resourcing",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410765868",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer",
-        "company": "Russell Tobin",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410965974",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer, Frontier Outposts, Edge Services Team",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4402280082",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Production Engineer (Apex Legends)",
-        "company": "Respawn Entertainment",
-        "location": "",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408481465",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Junior Full Stack Developer",
-        "company": "The Citco Group Limited",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408475148",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer 1(JavaScript, TypeScript & NodeJS)",
-        "company": "U.S. Bank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410957038",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Junior Full Stack Developer",
-        "company": "Hays",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408844977",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Developer",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4401114720",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4327275436",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer",
-        "company": "eBay",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4408456651",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4354840757",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Engineer, Delta Force",
-        "company": "StackAdapt",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4410996904",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Java Full Stack Developer",
-        "company": "Iris Software Inc.",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-05-06",
-        "link": "https://www.linkedin.com/jobs/view/4409943121",
         "site": "linkedin",
         "description": "No description available."
     }
