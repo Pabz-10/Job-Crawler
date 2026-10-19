@@ -1,55 +1,28 @@
 [
     {
-        "title": "Consultant, ServiceNow Developer",
-        "company": "KPMG Canada",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4454544021",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "Software Engineer",
-        "company": "AutoTrader.ca",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4426952754",
+        "company": "endo",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-10-19",
+        "link": "https://www.linkedin.com/jobs/view/4479946481",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "DevOps Systems Administrator – Linux",
-        "company": "Global Relay",
+        "title": "Intermediate Software Engineer",
+        "company": "Canada Cartage",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4478223942",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "AI First Software Engineer (Remote)",
+        "company": "OPENLANE",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4383837595",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Applied Scientist - CoreAI Voice Agent",
-        "company": "Microsoft",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4469513968",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Bell",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4475893794",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Forward Deployed Engineer, Sovereign AI",
-        "company": "Cohere",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4434680951",
+        "link": "https://www.linkedin.com/jobs/view/4479907463",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -63,11 +36,29 @@
         "description": "No description available."
     },
     {
-        "title": "AI First Software Engineer (Remote)",
-        "company": "OPENLANE",
+        "title": "Applied Scientist - CoreAI Voice Agent",
+        "company": "Microsoft",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4479907463",
+        "link": "https://www.linkedin.com/jobs/view/4469513968",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "DevOps Systems Administrator – Linux",
+        "company": "Global Relay",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4383837595",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Forward Deployed Engineer, Sovereign AI",
+        "company": "Cohere",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4434680951",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -90,38 +81,20 @@
         "description": "No description available."
     },
     {
+        "title": "DevOps Engineer - New Grad (January 2027)",
+        "company": "BDO Canada",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4477628044",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Consultant, ServiceNow Developer",
         "company": "KPMG Canada",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-10-18",
         "link": "https://www.linkedin.com/jobs/view/4454532959",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Application Engineer - Physical AI",
-        "company": "FANUC America Corporation",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4480893345",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Data & AI Engineer / Ingénieur Des Données & IA",
-        "company": "Dunsky Energy + Climate Advisors",
-        "location": "Greater Toronto Area, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4478241033",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer (Python/PL-SQL)",
-        "company": "Scotiabank",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4386217331",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -135,6 +108,24 @@
         "description": "No description available."
     },
     {
+        "title": "AI Engineer",
+        "company": "Bell",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4475893794",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Data & AI Engineer / Ingénieur Des Données & IA",
+        "company": "Dunsky Energy + Climate Advisors",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4478241033",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Data & AI Engineer / Ingénieur Des Données & IA",
         "company": "Dunsky Energy + Climate Advisors",
         "location": "Greater Vancouver Metropolitan Area",
@@ -144,29 +135,29 @@
         "description": "No description available."
     },
     {
-        "title": "Automation Specialist",
-        "company": "Maple Leaf Foods Inc",
-        "location": "Hamilton, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4443875712",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Sr. Full-Stack Software Engineer - Remote",
-        "company": "YO AI Labs",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4479693972",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "RQ11716 – Systems Testing/QA Specialist – Intermediate",
-        "company": "S M Software Solutions Inc",
+        "title": "Software Engineer",
+        "company": "AutoTrader.ca",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4480909369",
+        "link": "https://www.linkedin.com/jobs/view/4426952754",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Consultant, ServiceNow Developer",
+        "company": "KPMG Canada",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4454544021",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer (Python/PL-SQL)",
+        "company": "Scotiabank",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4386217331",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -180,47 +171,20 @@
         "description": "No description available."
     },
     {
-        "title": "AI & ML Intern – Applied Sciences",
-        "company": "Trench Group",
-        "location": "Scarborough, Ontario, Canada",
+        "title": "Software Validation Technologist",
+        "company": "Husky Technologies",
+        "location": "Bolton, Ontario, Canada",
         "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4454559685",
+        "link": "https://www.linkedin.com/jobs/view/4479942478",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "RQ11716 – Systems Testing/QA Specialist – Intermediate",
-        "company": "S M Software Solutions Inc",
+        "title": "Analyste d’affaires, Données et analytique - Nouveau diplômé (janvier 2027)",
+        "company": "BDO Canada",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4480900746",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full-Stack Developer - IAM",
-        "company": "MaintainX",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4462332187",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Controls Engineer",
-        "company": "Toyota Automated Logistics",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4480894241",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "AI & ML Developer Intern",
-        "company": "Trench Group",
-        "location": "Scarborough, Ontario, Canada",
-        "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4454557773",
+        "link": "https://www.linkedin.com/jobs/view/4477635114",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -234,74 +198,83 @@
         "description": "No description available."
     },
     {
-        "title": "Software Validation Technologist",
-        "company": "Husky Technologies",
-        "location": "Bolton, Ontario, Canada",
+        "title": "AI & ML Developer Intern",
+        "company": "Trench Group",
+        "location": "Scarborough, Ontario, Canada",
         "date": "2026-10-18",
-        "link": "https://www.linkedin.com/jobs/view/4479946135",
+        "link": "https://www.linkedin.com/jobs/view/4454557773",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Field Data Scientist",
-        "company": "Mastercard",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4470514120",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Actalent",
+        "title": "Controls Engineer",
+        "company": "Toyota Automated Logistics",
         "location": "Mississauga, Ontario, Canada",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4480845909",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4480894241",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Machine Learning Analyst",
+        "title": "Portfolio Engineer",
         "company": "Fidelity Canada",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4423154565",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4461419116",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Software Developer, AI Engineering & SDLC Transformation",
+        "title": "ETL Developer",
         "company": "Fidelity Canada",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4461417147",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4441502058",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Technical Artist (DCC Tools) - EA SPORTS Technology",
-        "company": "EA SPORTS",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4451261861",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Gameplay Data Science Engineer (Apex Legends)",
-        "company": "Respawn Entertainment",
-        "location": "Greater Vancouver Metropolitan Area",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4460763354",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer FCC",
-        "company": "Fidelity Canada",
+        "title": "Full-Stack Developer - IAM",
+        "company": "MaintainX",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-17",
-        "link": "https://www.linkedin.com/jobs/view/4354094258",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4462332187",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "AI & ML Intern – Applied Sciences",
+        "company": "Trench Group",
+        "location": "Scarborough, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4454559685",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Consultant, Data, Analytics & AI",
+        "company": "BDO Canada",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4479590870",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Application Engineer - Physical AI",
+        "company": "FANUC America Corporation",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4480893345",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Automation Specialist",
+        "company": "Maple Leaf Foods Inc",
+        "location": "Hamilton, Ontario, Canada",
+        "date": "2026-10-18",
+        "link": "https://www.linkedin.com/jobs/view/4443875712",
         "site": "linkedin",
         "description": "No description available."
     }
