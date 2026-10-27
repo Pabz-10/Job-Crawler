@@ -1,64 +1,46 @@
 [
     {
-        "title": "Site Reliability Engineer",
-        "company": "PayByPhone",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4459267250",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Consultant, Salesforce Development",
-        "company": "CIBC",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483527563",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Dev Engineer, Pricing Shared Platform",
+        "title": "Software Development Engineer, Region Flexibility Engineering",
         "company": "Amazon",
         "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483729444",
+        "date": "2026-10-27",
+        "link": "https://www.linkedin.com/jobs/view/4483771888",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Embedded Systems Engineer",
-        "company": "Foreseeson Technology",
-        "location": "Richmond, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483246307",
+        "title": "Dotnet Developer",
+        "company": "G-FORCE IT SERVICES INC",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-27",
+        "link": "https://www.linkedin.com/jobs/view/4483711127",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Software Development Engineer, AWS Simple Queue Service (SQS)",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4457527636",
+        "title": "CPU Software Intern",
+        "company": "NUVACORE",
+        "location": "Markham, Ontario, Canada",
+        "date": "2026-10-27",
+        "link": "https://www.linkedin.com/jobs/view/4483768771",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Software Engineer",
-        "company": "AfterQuery Experts",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483535182",
+        "title": "Student, Software Engineer - Security (Winter 2027)",
+        "company": "Sunlife",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-27",
+        "link": "https://www.linkedin.com/jobs/view/4483760984",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Full Stack Engineer",
-        "company": "AfterQuery Experts",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483520707",
+        "title": "Software Engineer - Intern",
+        "company": "Altera",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-27",
+        "link": "https://www.linkedin.com/jobs/view/4483762888",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -72,29 +54,11 @@
         "description": "No description available."
     },
     {
-        "title": "ASICS Design Verification Engineer (Multiple Levels) - Vancouver OR Markham",
-        "company": "Qualcomm",
+        "title": "Data Engineer, RBC Amplify 2027, Vancouver",
+        "company": "RBC",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4456294179",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer – Full Stack Developer",
-        "company": "Texas Instruments",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4460652315",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Sr. Software Engineer - Emerging Technology",
-        "company": "Walt Disney Animation Studios",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483722286",
+        "link": "https://www.linkedin.com/jobs/view/4483587153",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -108,11 +72,92 @@
         "description": "No description available."
     },
     {
-        "title": "Data Engineer, RBC Amplify 2027, Vancouver",
-        "company": "RBC",
+        "title": "Cloud DevOps Engineer",
+        "company": "Alquemy Search & Consulting",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483587153",
+        "link": "https://www.linkedin.com/jobs/view/4475973230",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
+        "company": "SAP",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4447425537",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "ASICS Design Verification Engineer (Multiple Levels) - Vancouver OR Markham",
+        "company": "Qualcomm",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4456294179",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Development Engineer, AWS Simple Queue Service (SQS)",
+        "company": "Amazon Web Services (AWS)",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4457527636",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full Stack Engineer",
+        "company": "AfterQuery Experts",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483520707",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "AfterQuery Experts",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483535182",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Junior I&C Technologist",
+        "company": "Tetra Tech",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4480132991",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "Foreseeson Technology",
+        "location": "Richmond, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483246307",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Web Developer",
+        "company": "GAIN",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483740961",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Dev Engineer, Pricing Shared Platform",
+        "company": "Amazon",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483729444",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -126,47 +171,29 @@
         "description": "No description available."
     },
     {
+        "title": "Software Engineer – Full Stack Developer",
+        "company": "Texas Instruments",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4460652315",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Back End Developer",
+        "company": "RemitBee™",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483225946",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Clinical Applications Specialist",
         "company": "Sectra",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
         "link": "https://www.linkedin.com/jobs/view/4483531884",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Wireless Device Certification Engineer",
-        "company": "Red Oak Technologies Inc.",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483240532",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "GCP - Computer System Validation Specialist (12 month limited-term)",
-        "company": "Alimentiv",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483227652",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer, Investly",
-        "company": "Fidelity Canada",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4481490084",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Programmer with artificial intelligence (AI) design skills",
-        "company": "Vancouver Psychology Centre",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4482698889",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -225,6 +252,15 @@
         "description": "No description available."
     },
     {
+        "title": "Intermediate Software Engineer",
+        "company": "TekRek",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483249561",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)",
         "company": "Qualcomm",
         "location": "Markham, Ontario, Canada",
@@ -234,11 +270,11 @@
         "description": "No description available."
     },
     {
-        "title": "Frontend Developer",
-        "company": "Rivago Infotech Inc",
+        "title": "Full Stack Developer, Investly",
+        "company": "Fidelity Canada",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4481468980",
+        "link": "https://www.linkedin.com/jobs/view/4481490084",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -279,11 +315,29 @@
         "description": "No description available."
     },
     {
-        "title": "Back End Developer",
-        "company": "RemitBee™",
-        "location": "Mississauga, Ontario, Canada",
+        "title": "Site Reliability Engineer",
+        "company": "PayByPhone",
+        "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483225946",
+        "link": "https://www.linkedin.com/jobs/view/4459267250",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Consultant, Salesforce Development",
+        "company": "CIBC",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483527563",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Planview",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4481827169",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -297,110 +351,11 @@
         "description": "No description available."
     },
     {
-        "title": "Full Stack Engineer",
-        "company": "GoPlay.ai",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4482943425",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
-        "company": "SAP",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4447425537",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Insight Global",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483201211",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Information Technology Analyst",
-        "company": "McMaster University",
-        "location": "Hamilton, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483724926",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)",
-        "company": "Qualcomm",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4465415704",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Python Developer",
-        "company": "VySystems",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483594207",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer – Quality Assurance",
-        "company": "Texas Instruments",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4464172344",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer",
-        "company": "AfterQuery Experts",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483527603",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Validation Technologist",
-        "company": "Husky Technologies",
-        "location": "Bolton, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483230446",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Dev Engineer, Pricing Shared Platform",
-        "company": "Amazon",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483725630",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "Software Developer",
         "company": "AfterQuery Experts",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483513925",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Intermediate Data Engineer",
-        "company": "Swoon",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4482999151",
+        "link": "https://www.linkedin.com/jobs/view/4483515826",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -414,38 +369,173 @@
         "description": "No description available."
     },
     {
+        "title": "FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)",
+        "company": "Qualcomm",
+        "location": "Markham, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4465415704",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Winter 2027: Software Developer Co-op, Front End (8 months)",
+        "company": "Intuit",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4481430825",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Activision 2027 Summer Internshps - Game Engineering (Vancouver)",
+        "company": "Activision",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483739780",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Developer",
+        "company": "AfterQuery Experts",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483513925",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Dev Engineer, Pricing Shared Platform",
+        "company": "Amazon",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483725630",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer – Quality Assurance",
+        "company": "Texas Instruments",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4464172344",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Compiler Engineer",
+        "company": "Intel",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483252467",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Gen AI Developer",
+        "company": "Capgemini",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483249310",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "AI Engineering Consultant",
+        "company": "CMiC",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483236456",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Insight Global",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483201211",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Intermediate Data Engineer",
+        "company": "Swoon",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4482999151",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "AfterQuery Experts",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483527603",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Engineer I",
+        "company": "TD",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483751914",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Intern, Intellectual Property & Contract Compliance (4 Months)",
+        "company": "Seaspan ULC",
+        "location": "North Vancouver, British Columbia, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483750825",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "AfterQuery Experts",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483514873",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Information Technology Analyst",
+        "company": "McMaster University",
+        "location": "Hamilton, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483724926",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "API Developer (Node.js/AWS)",
+        "company": "HCLTech",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4482933051",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Engineer, Cloud Operations",
+        "company": "Sleep Country Canada",
+        "location": "Brampton, Ontario, Canada",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4483761031",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Software Dev Engineer, Pricing Shared Platform",
         "company": "Amazon",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
         "link": "https://www.linkedin.com/jobs/view/4483711772",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Development Engineer, AWS Simple Queue Service (SQS)",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4457547459",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Engineering Intern - Summer 2027 (Vancouver, B.C.)",
-        "company": "Brown and Caldwell",
-        "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4482952334",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Electrical Engineering Co‑op",
-        "company": "ProMach",
-        "location": "Richmond, British Columbia, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483233438",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -464,42 +554,6 @@
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
         "link": "https://www.linkedin.com/jobs/view/4483526525",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Winter 2027: Software Developer Co-op, Front End (8 months)",
-        "company": "Intuit",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4481430825",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "AI Engineering Consultant",
-        "company": "CMiC",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483236456",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Gen AI Developer",
-        "company": "Capgemini",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483249310",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer",
-        "company": "AfterQuery Experts",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483515826",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -553,88 +607,16 @@
         "company": "Amazon Web Services (AWS)",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4457539536",
+        "link": "https://www.linkedin.com/jobs/view/4457547459",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Backend Engineer",
-        "company": "AfterQuery Experts",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483514873",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "API Developer (Node.js/AWS)",
-        "company": "HCLTech",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4482933051",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Sr. Front-End Developer",
-        "company": "Tekgence Inc",
-        "location": "Brampton, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483262140",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Developer",
-        "company": "UniSysTech Consulting",
-        "location": "Greater Toronto Area, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4482992943",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full-Stack .Net Web Developer",
-        "company": "BDO Canada",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4459835292",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "Raise",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483210785",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Creative Technologist",
-        "company": "Ideogram",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4483529415",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer (Toronto)",
-        "company": "Clio",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-10-26",
-        "link": "https://www.linkedin.com/jobs/view/4437940223",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Developer — Get Paid to Build Your Own Project with an AI Coding Assistant",
-        "company": "Alignerr",
+        "title": "Software Development Engineer, AWS Simple Queue Service (SQS)",
+        "company": "Amazon Web Services (AWS)",
         "location": "Vancouver, British Columbia, Canada",
-        "date": "2026-10-25",
-        "link": "https://www.linkedin.com/jobs/view/4481507816",
+        "date": "2026-10-26",
+        "link": "https://www.linkedin.com/jobs/view/4457539536",
         "site": "linkedin",
         "description": "No description available."
     }
