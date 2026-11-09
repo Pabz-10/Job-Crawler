@@ -1,5 +1,41 @@
 [
     {
+        "title": "Graph Data Scientist",
+        "company": "Swoon",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-11-09",
+        "link": "https://www.linkedin.com/jobs/view/4487655817",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Robotics Software Developer – ROS2, State Estimation, Perception",
+        "company": "BHF Robotics",
+        "location": "Markham, Ontario, Canada",
+        "date": "2026-11-09",
+        "link": "https://www.linkedin.com/jobs/view/4487665577",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Engineer, AI & Software Testing",
+        "company": "Magna International",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4398557721",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Software Engineer, Production Engineering",
+        "company": "Ramp",
+        "location": "Greater Toronto Area, Canada",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4407558987",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
         "title": "Consultant, ServiceNow Developer",
         "company": "KPMG Canada",
         "location": "Vancouver, British Columbia, Canada",
@@ -9,20 +45,20 @@
         "description": "No description available."
     },
     {
-        "title": "Sr. UI Engineer",
-        "company": "Omnissa",
-        "location": "Vancouver, British Columbia, Canada",
+        "title": "Software Engineer",
+        "company": "AutoTrader.ca",
+        "location": "Toronto, Ontario, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4444019502",
+        "link": "https://www.linkedin.com/jobs/view/4426952754",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Software Development Engineer - Agent Factory",
-        "company": "Workday",
+        "title": "Full-Stack Developer (1-Year Contract)",
+        "company": "Baker Tilly Canada",
         "location": "Vancouver, British Columbia, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4470509516",
+        "link": "https://www.linkedin.com/jobs/view/4485979349",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -72,38 +108,29 @@
         "description": "No description available."
     },
     {
-        "title": "Business Systems Analyst – Sustainability Technology",
-        "company": "Arc'teryx Equipment",
-        "location": "North Vancouver, British Columbia, Canada",
+        "title": "FY27 Intern - Automotive Engineering Internship - Canada (16 months)",
+        "company": "Qualcomm",
+        "location": "Markham, Ontario, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4444735942",
+        "link": "https://www.linkedin.com/jobs/view/4479675638",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Full-Stack Developer - IAM",
-        "company": "MaintainX",
-        "location": "Toronto, Ontario, Canada",
+        "title": "Sr. UI Engineer",
+        "company": "Omnissa",
+        "location": "Vancouver, British Columbia, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4462332187",
+        "link": "https://www.linkedin.com/jobs/view/4444019502",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Co-op Assistant Coordinator, Data",
-        "company": "Aecon Group Inc.",
-        "location": "Toronto, Ontario, Canada",
+        "title": "Software Development Engineer - Agent Factory",
+        "company": "Workday",
+        "location": "Vancouver, British Columbia, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4462336096",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer",
-        "company": "AutoTrader.ca",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4426952754",
+        "link": "https://www.linkedin.com/jobs/view/4470509516",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -144,38 +171,11 @@
         "description": "No description available."
     },
     {
-        "title": "Software Engineer, Production Engineering",
-        "company": "Ramp",
-        "location": "Greater Toronto Area, Canada",
+        "title": "Business Systems Analyst – Sustainability Technology",
+        "company": "Arc'teryx Equipment",
+        "location": "North Vancouver, British Columbia, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4407558987",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Engineer, AI & Software Testing",
-        "company": "Magna International",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4398557721",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "FY27 Intern - Automotive Engineering Internship - Canada (16 months)",
-        "company": "Qualcomm",
-        "location": "Markham, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4479675638",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer, AI",
-        "company": "Softchoice",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4470712951",
+        "link": "https://www.linkedin.com/jobs/view/4444735942",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -193,7 +193,43 @@
         "company": "S M Software Solutions Inc",
         "location": "Mississauga, Ontario, Canada",
         "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4488785397",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Java Developer or Python Developer – Data Lineage & Metadata",
+        "company": "S M Software Solutions Inc",
+        "location": "Mississauga, Ontario, Canada",
+        "date": "2026-11-08",
         "link": "https://www.linkedin.com/jobs/view/4488786382",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Junior Software Engineer – On-site (Vancouver Area)",
+        "company": "OBD Experts",
+        "location": "Vancouver, British Columbia, Canada",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4487354720",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Applied Machine Learning Research Scientist",
+        "company": "FDE Times",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4486687458",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Murex DevOps",
+        "company": "Luxoft",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4488798837",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -243,15 +279,6 @@
         "description": "No description available."
     },
     {
-        "title": "Applied Machine Learning Research Scientist",
-        "company": "FDE Times",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4486687458",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "Field Data Scientist",
         "company": "Mastercard",
         "location": "Toronto, Ontario, Canada",
@@ -261,20 +288,20 @@
         "description": "No description available."
     },
     {
-        "title": "RQ11676 – Software Developer – ETL – Intermediate",
-        "company": "S M Software Solutions Inc",
+        "title": "Software Engineer, AI",
+        "company": "Softchoice",
         "location": "Toronto, Ontario, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4488787349",
+        "link": "https://www.linkedin.com/jobs/view/4470712951",
         "site": "linkedin",
         "description": "No description available."
     },
     {
-        "title": "Full-Stack Developer (1-Year Contract)",
-        "company": "Baker Tilly Canada",
-        "location": "Vancouver, British Columbia, Canada",
+        "title": "Co-op Assistant Coordinator, Data",
+        "company": "Aecon Group Inc.",
+        "location": "Toronto, Ontario, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4485979349",
+        "link": "https://www.linkedin.com/jobs/view/4462336096",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -288,29 +315,11 @@
         "description": "No description available."
     },
     {
-        "title": "Electrical Engineering Design Support (Co-op)",
-        "company": "S&C Electric Company",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4463383982",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "RQ11673 – Report Developer – Junior",
-        "company": "S M Software Solutions Inc",
-        "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4488782423",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
         "title": "Java Developer or Python Developer – Data Lineage & Metadata",
         "company": "S M Software Solutions Inc",
         "location": "Mississauga, Ontario, Canada",
         "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4488785397",
+        "link": "https://www.linkedin.com/jobs/view/4488783460",
         "site": "linkedin",
         "description": "No description available."
     },
@@ -324,29 +333,20 @@
         "description": "No description available."
     },
     {
-        "title": "Java Developer or Python Developer – Data Lineage & Metadata",
+        "title": "RQ11673 – Report Developer – Junior",
         "company": "S M Software Solutions Inc",
-        "location": "Mississauga, Ontario, Canada",
-        "date": "2026-11-08",
-        "link": "https://www.linkedin.com/jobs/view/4488783460",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Mechanical Engineer, R&D Instrumentation",
-        "company": "STEMCELL Technologies",
-        "location": "Burnaby, British Columbia, Canada",
-        "date": "2026-11-07",
-        "link": "https://www.linkedin.com/jobs/view/4487626496",
-        "site": "linkedin",
-        "description": "No description available."
-    },
-    {
-        "title": "Software Engineer - Project Creation",
-        "company": "Alignerr",
         "location": "Toronto, Ontario, Canada",
-        "date": "2026-11-07",
-        "link": "https://www.linkedin.com/jobs/view/4488750066",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4488782423",
+        "site": "linkedin",
+        "description": "No description available."
+    },
+    {
+        "title": "Full-Stack Developer - IAM",
+        "company": "MaintainX",
+        "location": "Toronto, Ontario, Canada",
+        "date": "2026-11-08",
+        "link": "https://www.linkedin.com/jobs/view/4462332187",
         "site": "linkedin",
         "description": "No description available."
     }
